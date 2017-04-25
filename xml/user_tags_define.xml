@@ -1,0 +1,425 @@
+<?xml version="1.0"?>
+<tags id='0'>
+	<tag name="基本属性" id='10'> 
+		<tag name="性别" id='1001'>
+			<tag name="男" id='100101'></tag>
+			<tag name="女" id='100102'></tag>
+		</tag>
+		<tag name="婚姻状态" id='1002'>
+			<tag name="已婚" id='100201'></tag>
+			<tag name="未婚" id='100202'></tag>
+			<tag name="离异" id='100203'></tag>
+		</tag>
+		<tag name="星座" id='1003'>
+			<tag name="白羊座" id='100301'></tag>
+			<tag name="金牛座" id='100302'></tag>
+			<tag name="双子座" id='100303'></tag>
+			<tag name="巨蟹座" id='100304'></tag>
+			<tag name="狮子座" id='100305'></tag>
+			<tag name="处女座" id='100306'></tag>
+			<tag name="天秤座" id='100307'></tag>
+			<tag name="天蝎座" id='100308'></tag>
+			<tag name="射手座" id='100309'></tag>
+			<tag name="摩羯座" id='100310'></tag>
+			<tag name="水瓶座" id='100311'></tag>
+			<tag name="双鱼座" id='100312'></tag>
+		</tag>
+		<tag name="年龄" id='1004'></tag>
+		<tag name="年龄段" id='1005'>
+			<tag name="70后" id='100501'></tag>
+			<tag name="80后" id='100502'></tag>
+			<tag name="85后" id='100503'></tag>
+			<tag name="90后" id='100504'></tag>
+			<tag name="95后" id='100505'></tag>
+			<tag name="00后" id='100506'></tag>
+			<tag name="初中" id='100507'>
+				<tag name="初三" id='10050701'></tag>
+			</tag>
+			<tag name="高中" id='100508'>
+				<tag name="高三" id='10050801'></tag>
+			</tag>
+			<tag name="大学" id='100509'>
+				<tag name="大三" id='10050901'></tag>
+				<tag name="大四" id='10050902'></tag>
+			</tag>
+		</tag>
+		<tag name="学历" id='1006'>
+			<tag name="初中以下" id='100601'></tag>
+			<tag name="初中" id='100602'></tag>
+			<tag name="高中" id='100603'></tag>
+			<tag name="大学" id='100604'></tag>
+			<tag name="硕士研究生" id='100605'></tag>
+			<tag name="博士研究生" id='100606'></tag>
+		</tag>
+		<tag name="收入水平" id='1007'>
+			<tag name="低收入人群" id='100701'></tag>
+			<tag name="中产阶级额" id='100702'></tag>
+			<tag name="富人群" id='100703'></tag>
+		</tag>
+		<tag name="信仰" id='1008'>
+			<tag name="有神论信仰" id='100801'></tag>
+			<tag name="无神论信仰" id='100802'></tag>
+			<tag name="基督教" id='100803'></tag>
+			<tag name="佛教" id='100804'></tag>
+			<tag name="道教" id='100805'></tag>
+			<tag name="天主教" id='100806'></tag>
+			<tag name="伊斯兰教" id='100807'></tag>
+			<tag name="其他宗教信仰" id='100808'></tag>
+		</tag>
+		<tag name="健康情况" id='1009'>
+			<tag name="健康" id='100901'></tag>
+			<tag name="患有疾病" id='100902'></tag>
+			<tag name="疾病种类" id='100903'>
+				<tag name="呼吸系统疾病" id='100903001'></tag>
+				<tag name="消化系统疾病" id='100903002'></tag>
+				<tag name="循环系统疾病" id='100903003'></tag>
+				<tag name="泌尿系统疾病" id='100903004'></tag>
+				<tag name="血液系统疾病" id='100903005'></tag>
+				<tag name="内分泌系统疾病" id='100903006'></tag>
+				<tag name="新陈代谢疾病" id='100903007'></tag>
+				<tag name="淋巴系统疾病" id='100903008'></tag>
+				<tag name="神经系统疾病" id='100903009'></tag>
+				<tag name="结缔组织疾病" id='100903010'></tag>
+				<tag name="妇产科疾病" id='100903011'></tag>
+				<tag name="儿科疾病" id='100903012'></tag>
+				<tag name="耳鼻喉科疾病" id='100903013'></tag>
+				<tag name="眼科疾病" id='100903014'></tag>
+				<tag name="口腔科疾病" id='100903015'></tag>
+				<tag name="伤骨科疾病" id='100903016'></tag>
+				<tag name="皮肤科疾病" id='100903017'></tag>
+				<tag name="肿瘤科疾病" id='100903018'></tag>
+				<tag name="传染病与性病" id='100903019'></tag>
+				<tag name="寄生虫病" id='100903020'></tag>
+				<tag name="男性性功能障碍及不育科疾病" id='100903021'></tag>
+				<tag name="女性性功能障碍及不育科疾病" id='100903022'></tag>
+				<tag name="男性生殖系统疾病" id='100903023'></tag>
+				<tag name="疑难杂症" id='100903024'></tag>
+			</tag>
+		</tag>
+	</tag>
+	<tag name="社会／生活属性" id='20'>
+		<tag name="行业／职业" id='2001'>
+			<tag name="机械" id='200101'></tag>
+			<tag name="金融" id='200102'></tag>
+			<tag name="保险" id='200103'></tag>
+			<tag name="照明" id='200104'></tag>
+			<tag name="五金" id='200105'></tag>
+			<tag name="商贸" id='200106'></tag>
+			<tag name="交通" id='200107'></tag>
+			<tag name="工艺" id='200108'></tag>
+			<tag name="汽摩" id='200109'></tag>
+			<tag name="家居" id='200110'></tag>
+			<tag name="电工" id='200111'></tag>
+			<tag name="家电" id='200112'></tag>
+			<tag name="通信" id='200113'></tag>
+			<tag name="办公" id='200114'></tag>
+			<tag name="安防" id='200115'></tag>
+			<tag name="电子" id='200116'></tag>
+			<tag name="仪器" id='200117'></tag>
+			<tag name="纸业" id='200118'></tag>
+			<tag name="印刷" id='200119'></tag>
+			<tag name="包装" id='200120'></tag>
+			<tag name="服装" id='200121'></tag>
+			<tag name="手机" id='200122'></tag>
+			<tag name="化工" id='200123'></tag>
+			<tag name="石油" id='200124'></tag>
+			<tag name="精化" id='200125'></tag>
+			<tag name="能源" id='200126'></tag>
+			<tag name="橡塑" id='200127'></tag>
+			<tag name="农业" id='200128'></tag>
+			<tag name="纺织" id='200129'></tag>
+			<tag name="医药" id='200130'></tag>
+			<tag name="冶金" id='200131'></tag>
+			<tag name="玩具" id='200132'></tag>
+			<tag name="饮食" id='200133'></tag>
+			<tag name="建筑" id='200134'></tag>
+			<tag name="培训" id='200135'></tag>
+			<tag name="旅游" id='200136'></tag>
+			<tag name="游戏" id='200137'></tag>
+			<tag name="教育" id='200138'></tag>
+			<tag name="旅游" id='200139'></tag>
+		</tag>
+		<tag name="职务／职级" id='2002'>
+			<tag name="公务员" id='200201'></tag>
+			<tag name="蓝领" id='200201'></tag>
+			<tag name="白领" id='200201'></tag>
+			<tag name="总监" id='200201'></tag>
+			<tag name="部员" id='200201'></tag>
+		</tag>
+		<tag name="孩子状态" id='2003'>
+			<tag name="无孩子" id='200301'></tag>
+			<tag name="孕期" id='200302'></tag>
+			<tag name="婴儿" id='200303'></tag>
+			<tag name="幼儿" id='200304'></tag>
+			<tag name="小学" id='200305'></tag>
+			<tag name="初中" id='200306'></tag>
+			<tag name="大学" id='200307'></tag>
+		</tag>
+		<tag name="车辆使用情况" id='2004'>
+			<tag name="学车" id='200401'></tag>
+			<tag name="买车" id='200402'></tag>
+			<tag name="有车" id='200403'></tag>
+			<tag name="卖车" id='200404'></tag>
+		</tag>
+		<tag name="房屋居住" id='2005'>
+			<tag name="租房" id='200501'></tag>
+			<tag name="还贷中" id='200502'></tag>
+			<tag name="自有房" id='200503'></tag>
+		</tag>
+		<tag name="手机" id='2006'>
+			<tag name="价位" id='200601'>
+				<tag name="千元机" id='20060101'></tag>
+				<tag name="二千元机" id='20060102'></tag>
+				<tag name="三千元机" id='20060103'></tag>
+				<tag name="四千元机" id='20060104'></tag>
+				<tag name="五千元机" id='20060105'></tag>
+				<tag name="六千元机" id='20060106'></tag>
+				<tag name="七千元机" id='20060107'></tag>
+			</tag>
+			<tag name="品牌" id='200602'>
+				<tag name="苹果" id='20060201'></tag>
+				<tag name="小米" id='20060202'></tag>
+				<tag name="魅族" id='20060203'></tag>
+				<tag name="华为" id='20060204'></tag>
+				<tag name="锤子" id='20060205'></tag>
+				<tag name="三星" id='20060206'></tag>
+				<tag name="其它" id='20060207'></tag>
+			</tag>
+		</tag>
+		<tag name="移动运营商" id='2007'>
+				<tag name="品牌" id='200701'>
+					<tag name="移动" id='20070101'></tag>
+					<tag name="联通" id='20070102'></tag>
+					<tag name="电信" id='20070103'></tag>
+					<tag name="虚拟运营商" id='20070104'></tag>
+				</tag>
+				<tag name="网络" id='200702'>
+					<tag name="2G" id='20070201'></tag>
+					<tag name="3G" id='20070202'></tag>
+					<tag name="4G" id='20070203'></tag>
+				</tag>
+				<tag name="流量特点" id='200703'>
+					<tag name="高" id='20070301'></tag>
+					<tag name="中" id='20070301'></tag>
+					<tag name="低" id='20070301'></tag>
+				</tag>
+		</tag>
+	</tag>
+	<tag name="行为习惯" id='30'>
+		<tag name="常住城市" id='3001'>
+			<tag name="北京市" id='3001001'></tag>
+			<tag name="天津市" id='3001002'></tag>
+			<tag name="上海市" id='3001003'></tag>
+			<tag name="重庆市" id='3001004'></tag>
+			<tag name="香港特别行政区" id='3001005'></tag>
+			<tag name="澳门特别行政区" id='3001006'></tag>
+			<tag name="哈尔滨市" id='3001007'></tag>
+			<tag name="齐齐哈尔市" id='3001008'></tag>
+			<tag name="长春市" id='3001009'></tag>
+			<tag name="吉林市" id='3001010'></tag>
+			<tag name="辽源市" id='3001011'></tag>
+			<tag name="沈阳市" id='3001012'></tag>
+			<tag name="大连市" id='3001013'></tag>
+			<tag name="呼和浩特市" id='3001014'></tag>
+			<tag name="包头市" id='3001015'></tag>
+			<tag name="乌鲁木齐市" id='3001016'></tag>
+			<tag name="西宁市" id='3001017'></tag>
+			<tag name="拉萨市" id='3001018'></tag>
+			<tag name="兰州市" id='3001019'></tag>
+			<tag name="银川市" id='3001020'></tag>
+			<tag name="西安市" id='3001021'></tag>
+			<tag name="太原市" id='3001022'></tag>
+			<tag name="石家庄市" id='3001023'></tag>
+			<tag name="济南市" id='3001024'></tag>
+			<tag name="青岛市" id='3001025'></tag>
+			<tag name="南京市" id='3001026'></tag>
+			<tag name="其他城市" id='3001027'></tag>
+		</tag>
+		<tag name="作息时间" id='3002'>
+			<tag name="夜班族" id='300201'></tag>
+			<tag name="朝五晚九" id='300202'></tag>
+			<tag name="宅在家" id='300203'></tag>
+		</tag>
+		<tag name="交通方式" id='3003'>
+			<tag name="日常" id='300301'></tag>
+				<tag name="开车" id='30030101'></tag>
+				<tag name="地铁" id='30030102'></tag>
+				<tag name="公汽" id='30030103'></tag>
+			<tag name="出行" id='300302'>
+				<tag name="火车" id='30030201'></tag>
+				<tag name="飞机" id='30030202'></tag>
+				<tag name="自驾" id='30030203'></tag>
+			</tag>
+		</tag>
+		<tag name="居住酒店类型" id='3004'>
+			<tag name="经济型" id='300401'></tag>
+			<tag name="中档" id='300402'></tag>
+			<tag name="高档" id='300403'></tag>
+		</tag>
+		<tag name="经济／理财特性" id='3005'>
+			<tag name="股民" id='300501'></tag>
+			<tag name="基民" id='300502'></tag>
+			<tag name="银行" id='300503'></tag>
+			<tag name="保险" id='300504'></tag>
+		</tag>
+		<tag name="餐饮习惯" id='3006'>
+			<tag name="自主烹饪" id='300601'></tag>
+			<tag name="外卖" id='300602'></tag>
+			<tag name="品牌" id='300603'></tag>
+		</tag>
+		<tag name="网购特性" id='3007'>
+			<tag name="品类" id='300701'>
+				<tag name="服装品" id='30070101'></tag>
+				<tag name="化妆品" id='30070102'></tag>
+			</tag>
+			<tag name="方式" id='300702'>
+				<tag name="海淘" id='30070201'></tag>
+			</tag>
+		</tag>
+	</tag>
+	<tag name="兴趣偏好／倾向" id='40'>
+		<tag name="购物偏好" id='4001'>
+			<tag name="品类" id='400101'></tag>
+			<tag name="品牌" id='400102'></tag>
+		</tag>
+		<tag name="浏览偏好" id='4002'>
+			<tag name="类型" id='400201'></tag>
+			<tag name="电视剧" id='400202'></tag>
+			<tag name="电影" id='400203'></tag>
+		</tag>
+		<tag name="音乐偏好" id='4003'>
+			<tag name="类型" id='400301'></tag>
+			<tag name="歌手" id='400302'></tag>
+		</tag>
+		<tag name="体育偏好" id='4004'>
+			<tag name="足球" id='400401'></tag>
+			<tag name="篮球" id='400401'></tag>
+		</tag>
+		<tag name="游戏偏好" id='4005'>
+			<tag name="休闲" id='400501'></tag>
+			<tag name="RPG" id='400502'></tag>
+		</tag>
+		<tag name="旅游偏好" id='4006'>
+			<tag name="自助" id='400601'></tag>
+			<tag name="穷游" id='400602'></tag>
+			<tag name="国内游" id='400603'></tag>
+			<tag name="出国游" id='400604'></tag>
+		</tag>
+		<tag name="逛店偏好" id="4007">
+				<tag name="美食" id="400701">
+					<tag name="甜点饮品" id="40070101"></tag>
+					<tag name="火锅" id="40070102"></tag>
+					<tag name="自助餐" id="40070103"></tag>
+					<tag name="小吃快餐" id="40070104"></tag>
+					<tag name="日韩料理" id="40070105"></tag>
+					<tag name="聚餐宴请" id="40070106"></tag>
+					<tag name="西餐" id="40070107"></tag>
+					<tag name="东北菜" id="40070108"></tag>
+					<tag name="烧烤烤肉" id="40070109"></tag>
+					<tag name="川湘菜" id="40070110"></tag>
+					<tag name="香锅烤鱼" id="40070111"></tag>
+					<tag name="江浙菜" id="40070112"></tag>
+					<tag name="中式烧烤／烤串" id="40070113"></tag>
+					<tag name="咖啡酒吧茶馆" id="40070114"></tag>
+					<tag name="西北菜" id="40070115"></tag>
+					<tag name="京菜鲁菜" id="40070116"></tag>
+					<tag name="云贵菜" id="40070117"></tag>
+					<tag name="东南亚菜" id="40070118"></tag>
+					<tag name="海鲜" id="40070119"></tag>
+					<tag name="素食" id="40070120"></tag>
+					<tag name="台湾／客家菜" id="40070121"></tag>
+					<tag name="创意菜" id="40070122"></tag>
+					<tag name="汤／粥／炖菜" id="40070123"></tag>
+					<tag name="新疆菜" id="40070123"></tag>
+					<tag name="特色菜" id="40070124"></tag>
+					<tag name="小龙虾" id="40070125"></tag>
+					<tag name="面包蛋糕" id="40070126"></tag>
+					<tag name="片皮烤鸭" id="40070127"></tag>
+					<tag name="过桥米线" id="40070128"></tag>
+					<tag name="砂锅" id="40070129"></tag>
+					<tag name="羊蝎子" id="40070130"></tag>
+				</tag>
+				<tag name="酒店／客栈" id="400702">
+					<tag name="经济型酒店" id="40070201"></tag>
+					<tag name="豪华酒店" id="40070202"></tag>
+					<tag name="主题酒店" id="40070203"></tag>
+					<tag name="度假酒店／度假村" id="40070204"></tag>
+					<tag name="公寓型酒店" id="40070205"></tag>
+					<tag name="客栈" id="40070206"></tag>
+					<tag name="青年旅舍" id="40070207"></tag>
+				</tag>
+				<tag name="休闲娱乐" id="400704">
+					<tag name="KTV" id="40070401"></tag>
+					<tag name="演出赛事" id="40070402"></tag>
+					<tag name="电玩／游戏厅" id="40070403"></tag>
+					<tag name="运动健身" id="40070404"></tag>
+					<tag name="私人影院" id="40070405"></tag>
+					<tag name="足疗按摩" id="40070406"></tag>
+					<tag name="洗浴／汗蒸" id="40070407"></tag>
+					<tag name="中医养生" id="40070408"></tag>
+					<tag name="茶馆" id="40070409"></tag>
+					<tag name="棋牌" id="40070410"></tag>
+					<tag name="桌游" id="40070411"></tag>
+					<tag name="轰趴" id="40070412"></tag>
+					<tag name="DIY手工" id="40070413"></tag>
+					<tag name="密室逃脱" id="40070414"></tag>
+					<tag name="酒吧" id="40070415"></tag>
+					<tag name="桌球" id="40070416"></tag>
+					<tag name="水疗／桑拿" id="40070417"></tag>
+					<tag name="多人聚会" id="40070418"></tag>
+					<tag name="儿童乐园" id="40070419"></tag>
+					<tag name="电影院" id="40070420"></tag>
+				</tag>
+				<tag name="生活服务" id="400705">
+					<tag name="婚纱摄影" id="40070501"></tag>
+					<tag name="个性写真" id="40070502"></tag>
+					<tag name="亲子摄影" id="40070503"></tag>
+					<tag name="培训课程" id="40070504"></tag>
+					<tag name="汽车服务" id="40070505"></tag>
+					<tag name="体检／齿科" id="40070506"></tag>
+					<tag name="衣物／皮具洗护" id="40070507"></tag>
+					<tag name="鲜花" id="40070508"></tag>
+					<tag name="母婴亲子" id="40070509"></tag>
+					<tag name="配镜" id="40070510"></tag>
+					<tag name="照片冲洗" id="40070511"></tag>
+					<tag name="服饰鞋包" id="40070512"></tag>
+					<tag name="证件照／登记照" id="40070513"></tag>
+				</tag>
+				<tag name="丽人" id="400706">
+					<tag name="美发" id="40070601"></tag>
+					<tag name="美容／美体" id="40070602"></tag>
+					<tag name="美甲／美瞳" id="40070603"></tag>
+					<tag name="瑜伽舞蹈" id="40070604"></tag>
+					<tag name="瘦身纤体" id="40070605"></tag>
+					<tag name="韩式定妆" id="40070606"></tag>
+					<tag name="祛痘" id="40070607"></tag>
+					<tag name="纹身" id="40070608"></tag>
+					<tag name="牙齿健康" id="40070609"></tag>
+					<tag name="SPA" id="40070610"></tag>
+				</tag>
+		</tag>
+	</tag>
+	<tag name="心理学属性" id='50'>
+		<tag name="生活方式" id='5001'>
+			<tag name="作息规律" id='500101'></tag>
+			<tag name="爱打扮" id='500102'></tag>
+			<tag name="关注健康" id='500103'></tag>
+			<tag name="喜欢绿色食品" id='500104'></tag>
+		</tag>
+		<tag name="个性" id='5002'>
+			<tag name="小清新" id='500201'></tag>
+			<tag name="文艺青年" id='500202'></tag>
+			<tag name="爱尝新" id='500203'></tag>
+			<tag name="性格外向" id='500204'></tag>
+			<tag name="爱炫耀" id='500205'></tag>
+			<tag name="特立独行" id='500206'></tag>
+		</tag>
+		<tag name="价值观" id='5003'>
+			<tag name="崇尚自然" id='500301'></tag>
+			<tag name="勇于冒险" id='500302'></tag>
+			<tag name="关注性价比" id='500303'></tag>
+			<tag name="关注品质" id='500304'></tag>
+			<tag name="喜欢打牌" id='500305'></tag>
+		</tag>
+	</tag>
+</tags>

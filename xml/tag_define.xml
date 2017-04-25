@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tag_define>
+	<level1>
+		<基本属性>10</基本属性>
+	</level1>
+	<level1>
+		<社会生活属性>20</社会生活属性>
+	</level1>
+	<level1>
+		<行为习惯>30</行为习惯>
+	</level1>
+	<level1>
+		<兴趣偏好>40</兴趣偏好>
+	</level1>
+	<level1>
+		<心理学倾向>50</心理学倾向>
+	</level1>
+</tag_define>

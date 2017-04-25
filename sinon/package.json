@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "assert": "^1.4.1",
+    "sinon": "^1.17.7"
+  }
+}
