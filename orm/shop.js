@@ -26,6 +26,7 @@ co(function*() {
 				age: orm.enforce.ranges.number(18, undefined, "under-age")
 			}
 		})
+		console.log(person)
 		resolve()
 	}).then(() => {
 		console.log("init table person successfully!")
@@ -33,15 +34,15 @@ co(function*() {
 		reject(err)
 	})
 
-	/*	yield new Promise(function(resolve, reject) {
-			person.find({
-				id: 1,
-			}, function(err, items) {
-				console.log(err)
-				if (err) throw err;
-				console.log(1111)
-				resolve()
-			})
-		})*/
+	/*yield new Promise(function(resolve, reject) {
+		person.find({
+			id: 1,
+		}, function(err, items) {
+			console.log(err)
+			if (err) throw err;
+			console.log(1111)
+			resolve()
+		})
+	})*/
 
 })
